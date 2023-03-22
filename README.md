@@ -1,6 +1,8 @@
 # SNEAKERS FLOW 360
 A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+
 ¡https://w7.pngwing.com/pngs/654/821/png-transparent-swoosh-nike-just-do-it-logo-nike-angle-adidas-symbol-thumbnail.png
+
 Live Demo: [ritijjain.github.io/pudhina-fresh](https://ritijjain.github.io/pudhina-fresh), [ritijjain.com](https://ritijjain.com/)
 
 * Minimal design based on Bootstrap 4.

@@ -1,6 +1,10 @@
 # SNEAKERS FLOW 360
 A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fes%2Fsearch%2Fslogan-on-sneakers%3Fimage_type%3Dvector&psig=AOvVaw2h41JPuylLdZkKUFWNEZxV&ust=1679532705710000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODXqISp7v0CFQAAAAAdAAAAABAE
+
+![download](https://user-images.githubusercontent.com/124215145/226774308-57df796e-b9cd-4e01-baf8-ae7d28badc92.png)
+
+
+
 Live Demo: [ritijjain.github.io/pudhina-fresh](https://ritijjain.github.io/pudhina-fresh), [ritijjain.com](https://ritijjain.com/)
 
 * Minimal design based on Bootstrap 4.

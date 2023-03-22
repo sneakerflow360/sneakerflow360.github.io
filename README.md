@@ -1,4 +1,4 @@
-# Pudhina Fresh
+# SNEAKERSFLOW 360
 A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
 
 Live Demo: [ritijjain.github.io/pudhina-fresh](https://ritijjain.github.io/pudhina-fresh), [ritijjain.com](https://ritijjain.com/)

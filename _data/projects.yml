@@ -1,7 +1,8 @@
-- name: Project One # Project name, also used as heading
+- name: Tenis Nike Jordan 2 Retro Low Craft Melon Tint # Project name, also used as heading
   id: p1 # Project id, must be unique amongst the projects
   img_src: /assets/img/connectpie-page.png # Optional image
-  description_less: This part of the project description is visible at all times. # Description shown at all times, text only
+  description_less: Tenis Nike Jordan 2 Retro Low Craft Melon Tint
+$ 4,420.00. # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>This part is only seen when you click on the project card.</p> 
   action_buttons: > # Action buttons for project, HTML only

@@ -2,7 +2,7 @@ title: SNEAKERS FLOW 360 # Shown in header on pages with full_logo: true
 short_logo: PF. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   "CUALQUIER DIA ES UN DIA PERFECTO PARA COMPRAR LOS SNEAKERS ADECUADOS A TU ESTILO A TU ESTILO"
-url: "https://ritijjain.github.io/pudhina-fresh" # Site base URL
+url: "https://sneakerflow360.github.io/" # Site base URL
 
 author:
   name: Ritij Jain
